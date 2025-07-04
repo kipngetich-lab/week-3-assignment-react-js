@@ -147,9 +147,11 @@ The app is fully responsive across all devices:
 ## Environment Variables
 
 Create .env file:
-
+```
 VITE_API_BASE_URL=https://jsonplaceholder.typicode.com
+
 VITE_POSTS_PER_PAGE=10
+```
 
 ## Theme Colors
 
