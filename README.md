@@ -37,8 +37,9 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/kipngetich-lab/week-3-assignment-react-js.git
+
+cd week-3-assignment-react-js
 ```
-cd task-manager-app
 
 
 2. Install dependencies:
