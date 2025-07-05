@@ -1,5 +1,6 @@
 # Task Manager App with API Integration
 
+Check out [Live Demo](https://task-manager-app-peach-ten.vercel.app/)
 
 ## Features
 
